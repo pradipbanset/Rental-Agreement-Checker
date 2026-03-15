@@ -10,8 +10,8 @@ This application analyzes rental contracts to identify illegal clauses, unfair t
 
 ### 1. Clone and Setup
 ```bash
-git clone https://github.com/yourusername/rental-agreement-checker.git
-cd rental-agreement-checker
+git clone https://github.com/pradipbanset/Rental-Agreement-Checker.git
+cd Rental-Agreement-Checker
 cp .env.example .env
 ```
 
